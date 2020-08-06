@@ -1,6 +1,6 @@
 # Scientific-Calculator
 A Scientific-Calculator is Desktop Application implemented in Java programming language.
-This Application is capable of simple as well as advanced mathematical calculations such as follow :
+This Application is capable of doing simple as well as advanced mathematical calculations such as follow :
 1) Arithmetic
 2) Exponential
 3) Trigonometric 
