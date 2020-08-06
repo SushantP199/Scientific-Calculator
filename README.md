@@ -9,3 +9,5 @@ This Application is capable of simple as well as advanced mathematical calculati
 6) Logarithmic
 
 The Standard output of A Scientific-Calculator is shown below : 
+
+![Standard](https://user-images.githubusercontent.com/54701889/89544548-e3767b00-d81f-11ea-904e-620c0d80d764.png)
